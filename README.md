@@ -9,4 +9,5 @@ The project encompasses a wide range of analytical techniques, including data cl
 The ultimate goal is to empower readers, whether they are data enthusiasts or law enforcement professionals, to leverage these insights for effective decision-making and crime prevention strategies.
 
 To follow along, please find the blog link below, as it contains all the necessary steps to complete this project from start to end.
-Blog Post - [US Crime Data Exploration & Analysis]()
+
+**Blog Post -** [US Crime Data Exploration & Analysis](https://medium.com/@the_psy_guy/us-crime-data-exploration-and-analysis-3265ce1373b4)
